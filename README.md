@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rico Eka Rizkya</h1>
 <img align="center" alt="web-developer" width="100%" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.mygo.ge%2Fuploads%2Fblog%2F1584023795.jpg&f=1&nofb=1&ipt=4aa1a58c95d9a21f9569d1cfffd65ee60e1f048b25d4e25b0ab5cfd982bea0b5&ipo=images">
-<h3 align="justify">Fullstack & Mobile Developer with 4+ years of experience building web systems and cross-platform mobile apps for real business needs — from enterprise resource planning (ERP) and face-recognition attendance systems to restaurant point-of-sale platforms.
+Fullstack & Mobile Developer with 4+ years of experience building web systems and cross-platform mobile apps for real business needs — from enterprise resource planning (ERP) and face-recognition attendance systems to restaurant point-of-sale platforms.
 Web: React, TypeScript, JavaScript, Laravel, NodeJS, NestJS
 Mobile: React Native, Flutter, Kotlin
 Database: MySQL, PostgreSQL, Redis, Firebase
