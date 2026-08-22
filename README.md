@@ -5,7 +5,7 @@ Web: React, TypeScript, JavaScript, Laravel, NodeJS, NestJS
 Mobile: React Native, Flutter, Kotlin
 Database: MySQL, PostgreSQL, Redis, Firebase
 Tools: Git, Figma, Postman
-My repositories reflect this range — from responsive web apps and REST APIs to mobile apps with AI-powered features like face recognition and real-time GPS tracking.
+My repositories reflect this range — from responsive web apps and REST APIs to mobile apps with AI-powered features like face recognition and real-time GPS tracking. <br>
 📫 Reach me at ricorizkya26@gmail.com
 
 <h3 align="left">Connect with me:</h3>
